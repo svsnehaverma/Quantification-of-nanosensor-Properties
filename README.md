@@ -6,7 +6,7 @@
     <img src="./Fig2.png" alt="Image 2" style="width: 70%;">
 </div>
   
-# <strong> Quantification-of-nanosensor-Properties </strong>
+# <strong> Quantification-of-nanosensor-Properties </strong> 
 This code introduces a novel method for designing and optimizing electromagnetic plasmonic nanostructures using Artificial Neural Networks (ANNs), which have gained popularity in tackling complex data-driven problems efficiently. 
 
 In this study, we leverage a computationally efficient approach based on ANNs to predict crucial parameters such as sensitivity (S), Full Width Half Maximum (FWHM), Figure of Merit (FOM), and Plasmonic Wavelength (PW) for different paired nanostructures. Initially, nanostructure simulations are conducted using the Finite Element Method (FEM) to gather the dataset. Input parameters including the Major axis (a), Minor axis (b), and separation gap (g) are utilized to calculate corresponding sensitivity (nm/RIU), FWHM (nm), FOM, and plasmonic wavelength (nm), thereby forming the dataset.
