@@ -1,7 +1,7 @@
 <table align="center">
 <tr><td align="center" width="10000">
 
-<img src = "./Fig1b.png" width = "680">
+<img src = "./Fig1b.png" width = "580">
 <img src = "./Fig2.png" width = "680">
   
 # <strong> Quantification-of-nanosensor-Properties </strong>
