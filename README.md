@@ -1,8 +1,8 @@
 <table align="center">
 <tr><td align="center" width="10000">
 
-<img src = "./Fig1b.png" width = "380">
-<img src = "./Fig2.png" width = "680">
+<img src = "./Fig1b.png" width = "380"> <img src = "./Fig2.png" width = "680">
+
   
 # <strong> Quantification-of-nanosensor-Properties </strong>
 This code introduces a novel method for designing and optimizing electromagnetic plasmonic nanostructures using Artificial Neural Networks (ANNs), which have gained popularity in tackling complex data-driven problems efficiently. 
