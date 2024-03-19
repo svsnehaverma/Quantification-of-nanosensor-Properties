@@ -4,7 +4,7 @@
 <img src = "./Fig1b.png" width = "380"> <img src = "./Fig2.png" width = "680">
 
 <div style="display: flex; justify-content: center;">
-    <img src="./Fig1b.png" alt="Image 1" style="width: 45%;">
+    <img src="./Fig1b.png" alt="Image 1" style="width: 25%;">
     <img src="./Fig2.png" alt="Image 2" style="width: 70%;">
 </div>
   
